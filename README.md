@@ -9,8 +9,8 @@ I'm hoping to land myself a job in IT later!
 
 Some of my finished pet projects:
 
-https://github.com/AxiDragon/Artkeeper
-https://github.com/AxiDragon/SSHPlus
+https://github.com/AxiDragon/Artkeeper <br>
+https://github.com/AxiDragon/SSHPlus <br>
 https://axidragon.github.io/exersite/
 
 Currently working on:
