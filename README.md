@@ -7,4 +7,14 @@ Now, I love making a variety of programs to make life just a little better. Even
 
 I'm hoping to land myself a job in IT later!
 
+Some of my finished pet projects:
+
+https://github.com/AxiDragon/Artkeeper
+https://github.com/AxiDragon/SSHPlus
+https://axidragon.github.io/exersite/
+
+Currently working on:
+
+https://axidragon.github.io/d20-timer/
+
 <img alt="Cool dragon!" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/Axi-GIF-Alt-Language.gif" height="400">
