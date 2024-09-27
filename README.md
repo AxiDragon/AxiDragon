@@ -1,5 +1,4 @@
-
-<img  alt="intro" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/intro.gif">
+<h1><img  alt="intro" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/intro.gif"></h1>
 <img align="right" alt="axi" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/axi.gif"
  height="400">
 <p>A couple years ago, I started out as a Game Artist on the University of Arts Utrecht.<br><br>
@@ -10,7 +9,7 @@
   the
   program is far more than the time it'll actually save me, of course.<br><br><br><br></p>
 
-<img  alt="projects" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/projects.gif" height="70">
+<h2><img  alt="projects" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/projects.gif" height="70"></h2>
   <h3>Finished</h3>
   <ul>
     <li><a href="https://github.com/AxiDragon/Artkeeper" target="_blank" rel="noreferrer">Artkeeper</a>: a program to help digital freelancers track time spent in programs</li>
@@ -28,7 +27,7 @@
   </ul>
   <br><br>
 
-<img  alt="skills" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/skills.gif" height="70">
+<h2><img  alt="skills" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/skills.gif" height="70"></h2>
 <h3>Programming Languages</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
