@@ -25,7 +25,6 @@
   <ul>
     <li><a href="https://axidreamdragon.itch.io/" target="_blank" rel="noreferrer">Itch Games</a>: all the games that I have made</li>
   </ul>
-  <br><br>
 
 <h2><img  alt="skills" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/skills.gif" height="70"></h2>
 <h3>Programming Languages</h3>
