@@ -15,7 +15,7 @@
     <li><a href="https://github.com/AxiDragon/Artkeeper" target="_blank" rel="noreferrer">Artkeeper</a>: a C# program to help digital freelancers track time spent in programs</li>
     <li><a href="https://github.com/AxiDragon/SSHPlus" target="_blank" rel="noreferrer">SSHPlus</a>: a Google Chrome extension to facilitate searching for student accomodations</li>
     <li><a href="https://axidragon.github.io/exersite/" target="_blank" rel="noreferrer">Exersite</a>: a React/FireBase site which allows users to make me do more exercise</li>
-    <li><a href="https://axidragon.github.io/d20-timer/" target="_blank" rel="noreferrer">D20 Timer</a>: a randomized productivity timer which also encourages users to create small, bite-sized tasks, made with React</li>
+    <li><a href="https://axidragon.github.io/d20-timer/" target="_blank" rel="noreferrer">D20 Timer</a>: a randomized productivity timer which also encourages users to create small, bite-sized tasks. Made with React</li>
   </ul>
 
   <h3>In Progress</h3>
