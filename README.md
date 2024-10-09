@@ -48,7 +48,7 @@
      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="16" height="16" />
 </a>
-     <a href="https://axidragon.github.io/exersite/" target="_blank" rel="noreferrer">Exersite</a>: a React/FireBase site which allows users to make me do more exercise</li>
+     <a href="https://axidragon.github.io/exersite/" target="_blank" rel="noreferrer">Exersite</a>: a website which allows users to make me do more exercise</li>
     <li>
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -62,7 +62,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
   width="16" height="16" /> </a>
-     <a href="https://axidragon.github.io/d20-timer/" target="_blank" rel="noreferrer">D20 Timer</a>: a randomized productivity timer which also encourages users to create small, bite-sized tasks. Made with React</li>
+     <a href="https://axidragon.github.io/d20-timer/" target="_blank" rel="noreferrer">D20 Timer</a>: a randomized productivity timer which also encourages users to create small, bite-sized tasks</li>
   </ul>
 
   <h3>In Progress</h3>
@@ -74,7 +74,21 @@
          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="16" height="16" />
 </a>
-    Exersite Manager: a private Java program to help me manage exercise counts on Exersite. Mainly for me to learn Java.</li>
+    Exersite Manager: a private Java program to help me manage exercise counts on Exersite. Mainly for me to learn Java</li>
+       <li>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript" width="16" height="16" /> </a>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  alt="react" width="16" height="16" /> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+  alt="html5" width="16" height="16" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+  width="16" height="16" /> </a>
+     <a href="" target="_blank" rel="noreferrer">People Not Opinions</a> (Repository not yet created): an interactive webapp for phones to reduce out-group homogeneity bias</li>
   </ul>
   <h3>Other</h3>
   <ul>
