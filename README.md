@@ -88,7 +88,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
   width="16" height="16" /> </a>
-     <a href="" target="_blank" rel="noreferrer">People Not Opinions</a> (Repository not yet created): an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a></li>
+     <a href="https://github.com/AxiDragon" target="_blank" rel="noreferrer">People Not Opinions</a> (Repository not yet created): an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a></li>
   </ul>
   <h3>Other</h3>
   <ul>
