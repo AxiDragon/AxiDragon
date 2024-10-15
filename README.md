@@ -79,16 +79,20 @@
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   alt="javascript" width="16" height="16" /> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="16" height="16"/> </a>
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
   alt="react" width="16" height="16" /> </a>
+  <img
+  src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"
+  alt="expo" width="16" height="16" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
   alt="html5" width="16" height="16" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
   width="16" height="16" /> </a>
-     <a href="https://github.com/AxiDragon" target="_blank" rel="noreferrer">People Not Opinions</a> (Repository not yet created): an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a></li>
+     <a href="https://github.com/AxiDragon/people-not-opinions" target="_blank" rel="noreferrer">People Not Opinions</a>: an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a></li>
   </ul>
   <h3>Other</h3>
   <ul>
