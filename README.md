@@ -66,10 +66,6 @@
     </a>
     <a href="https://axidragon.github.io/d20-timer/" target="_blank" rel="noreferrer">D20 Timer</a>: a randomized productivity timer which also encourages users to create small, bite-sized tasks
    </li>
-  </ul>
-
-  <h3>In Progress</h3>
-  <ul>
    <li>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="16"/>
@@ -79,6 +75,10 @@
     </a>
     Exersite Manager: a private Java program to help me manage exercise counts on Exersite, mainly for me to learn Java</li>
    <li>
+  </ul>
+
+  <h3>In Progress</h3>
+  <ul>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="16"/> 
     </a>
@@ -100,6 +100,7 @@
     <a href="https://github.com/AxiDragon/people-not-opinions" target="_blank" rel="noreferrer">People Not Opinions</a>: an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a>
    </li>
   </ul>
+  
   <h3>Other</h3>
   <ul>
     <li>
