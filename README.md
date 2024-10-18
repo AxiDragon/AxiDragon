@@ -73,12 +73,13 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="16"/>
     </a>
-    Exersite Manager: a private Java program to help me manage exercise counts on Exersite, mainly for me to learn Java</li>
-   <li>
+    Exersite Manager: a private Java program to help me manage exercise counts on Exersite, mainly for me to learn Java
+   </li>
   </ul>
 
   <h3>In Progress</h3>
   <ul>
+   <li>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="16"/> 
     </a>
