@@ -98,7 +98,7 @@
     <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
      <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" title="Expo" width="16"/>
     </a>
-    <a href="https://github.com/AxiDragon/people-not-opinions" target="_blank" rel="noreferrer">People Not Opinions</a>: an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a>
+    <a href="https://axidragon.github.io/opinions-not-people/" target="_blank" rel="noreferrer">Opinions Not People</a>: an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a>
    </li>
    <li>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
