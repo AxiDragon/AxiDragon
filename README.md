@@ -75,6 +75,24 @@
     </a>
     Exersite Manager: a private Java program to help me manage exercise counts on Exersite, mainly for me to learn Java
    </li>
+      <li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="16"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="16"/> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="16"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="16"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="16"/> 
+    </a>
+    <a href="https://axidragon.github.io/" target="_blank" rel="noreferrer">Portfolio Site</a>: a fancy site to show off what I can do. Cause a README has its limits!</a>
+   </li>
   </ul>
 
   <h3>In Progress</h3>
@@ -99,24 +117,6 @@
      <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" title="Expo" width="16"/>
     </a>
     <a href="https://axidragon.github.io/opinions-not-people/" target="_blank" rel="noreferrer">Opinions Not People</a>: an interactive webapp for phones to reduce <a href="https://en.wikipedia.org/wiki/Out-group_homogeneity" target="_blank" rel="noreferrer">out-group homogeneity bias</a>
-   </li>
-   <li>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="16"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="16"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="16"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="16"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="16"/> 
-    </a>
-    <a href="https://axidragon.github.io/" target="_blank" rel="noreferrer">Portfolio Site</a>: a fancy site to show off what I can do. Cause a README has its limits!</a>
    </li>
   </ul>
   
