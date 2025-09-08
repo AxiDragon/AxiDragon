@@ -7,11 +7,13 @@
 <p>Funnily enough though, although I thought I really wanted to be a game artist, my first game development lesson immediately changed my life. I loved (still do, for the record!) the problem-solving aspect of coding!</p>
 <p>I stopped being a game artist, and became a game designer. I learnt C# and Unity, but also branched out to Godot, Python, Java, and what I now consider my specialty: web development!</p>
 <p>My game artist background is still here, though! In my free time (and if I'm not programming), I enjoy drawing, 3D modeling, cooking, and being a cartoon dragon online. I've also been getting a bit more into maker electronics and reading!</p>
-
+<br/>
+<br/>
 <img  alt="projects" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/projects.gif">
 <p>My highlights (and some other projects whose repositories are private) are available on my site: <a href="https://axidreamdragon.com" target="_blank" rel="noreferrer">https://axidreamdragon.com</a></p>
 <p>Other projects of mine that are open source are available on my GitHub profile, in the repositories section: <a href="https://github.com/AxiDragon?tab=repositories" target="_blank" rel="noreferrer">https://github.com/AxiDragon?tab=repositories</a></p>
-
+<br/>
+<br/>
 <img  alt="skills" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/skills.gif">
 <h3>Programming Languages</h3>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -96,6 +98,8 @@
   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40" /> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
   src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" title="Arduino" width="40" height="40" /> </a>
+
+<br/>
 <br/>
 <p>
    Thanks for having a peek!
