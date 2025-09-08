@@ -9,8 +9,8 @@
 <p>My game artist background is still here, though! In my free time (and if I'm not programming), I enjoy drawing, 3D modeling, cooking, and being a cartoon dragon online. I've also been getting a bit more into maker electronics and reading!</p>
 
 <img  alt="projects" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/projects.gif">
-<p>My highlights (and some other projects whose repositories are private) are available on my site: [https://axidreamdragon.com](https://axidreamdragon.com)</p>
-<p>Other projects of mine that are open source are available on my GitHub profile, in the repositories section: [https://github.com/AxiDragon?tab=repositories](https://github.com/AxiDragon?tab=repositories)</p>
+<p>My highlights (and some other projects whose repositories are private) are available on my site: <a href="https://axidreamdragon.com" target="_blank" rel="noreferrer">https://axidreamdragon.com</a></p>
+<p>Other projects of mine that are open source are available on my GitHub profile, in the repositories section: <a href="https://github.com/AxiDragon?tab=repositories" target="_blank" rel="noreferrer">https://github.com/AxiDragon?tab=repositories</a></p>
 
 <img  alt="skills" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/skills.gif">
 <h3>Programming Languages</h3>
