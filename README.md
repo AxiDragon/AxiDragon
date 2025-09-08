@@ -65,6 +65,9 @@
 </a>
 
 <h3>Software</h3>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img
+  src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" title="Visual Studio Code" width="40"
+  height="40" /> </a>
 <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> <img
   src="https://www.clipstudio.net/view/img/common/clipstudiopaint-icon.png" alt="Clip Studio Paint" title="Clip Studio Paint" width="40"
   height="40" /> </a>
