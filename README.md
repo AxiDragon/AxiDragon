@@ -77,10 +77,10 @@
   src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" title="Blender" width="40"
   height="40" /> </a>
 <a href="https://inkscape.org" target="_blank" rel="noreferrer"> <img
-  src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2019%2F02%2Finkscape-logo.png&sp=1757327270T759515feac3a28b32bfb0656b1eda2f767758124324c2cf6315ea8d07ea6c580" alt="Inkscape" title="Inkscape" width="40"
+  src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/inkscape-logo.png" alt="Inkscape" title="Inkscape" width="40"
   height="40" /> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-  src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphotoshop%2Fphotoshop_PNG68.png&sp=1757327601Tfd1ed0238ee335a8adb3082dc2f2bb22bad516dba3905299e52d6d566c853a34"
+  src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG21.png"
   alt="Photoshop" title="Photoshop" width="40" height="40" /> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40" />
