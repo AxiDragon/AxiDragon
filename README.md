@@ -1,7 +1,5 @@
 
 <img  alt="intro" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/intro.gif">
-<img align="right" alt="axi" src="https://github.com/AxiDragon/AxiDragon/blob/main/img/axi.gif"
- height="400">
 <p>I'm passionate about creating software that helps people! I do this by making games and interactions that let people experience moments or viewpoints that they would otherwise not experience, or by developing software that facilitates tedious processes. I tend to use TypeScript and modern web frameworks, but I'm always curious to explore other technologies if they lead to new, exciting projects!</p>
 <p>This passion started a couple years ago, when I made the decision to apply as a Game Artist at the University of Arts Utrecht. I got a spot!</p>
 <p>Funnily enough though, although I thought I really wanted to be a game artist, my first game development lesson immediately changed my life. I loved (still do, for the record!) the problem-solving aspect of coding!</p>
